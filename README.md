@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hoffmano&theme=tokyonight&count_private=true&card_width=495&orgs=amparosaude&role=ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hoffmano&theme=tokyonight&count_private=true&card_width=495&orgs=amparosaude&role=COLLABORATOR" />
 </p>

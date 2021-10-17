@@ -4,6 +4,6 @@
   </p>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hoffmano&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hoffmano&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=Python,Java,C,HTML,CSS,PLpgSQL,PowerShell,Shell,R,Dockerfile,Ruby" />
   </p>
 </div>
